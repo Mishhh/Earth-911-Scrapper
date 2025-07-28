@@ -72,3 +72,8 @@ def clean_text(text):
     text = unicodedata.normalize("NFKD", text)
     text = text.encode("ascii", "ignore").decode("utf-8")
     return text.strip()
+```
+---
+
+### 5. **Output** 
+>![](/image.png)
