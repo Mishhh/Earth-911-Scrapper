@@ -1,5 +1,8 @@
 # ♻️ Earth911 Electronics Recycling Centers Scraper
 
+> 📝 **Assessment Task**  
+> Given by **Yasham Software Services Private Limited**  
+
 This Python script scrapes recycling center data for **electronics disposal** near a given ZIP code from [Earth911](https://search.earth911.com/). The script uses an API proxy (Scrape.do) to render JavaScript-based content and extract details like **business name, address, and accepted materials**, exporting the cleaned results to a CSV file.
 
 ---
